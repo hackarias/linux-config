@@ -62,7 +62,7 @@ Python libs installed:
 - Created database owned by created user.
 Please check with `\du` when in `psql` for details.
 - Added hardcoded paths to google/facebook secrets
-- Swapped sqlite3 for postgresql database creation (see __init__.py)
+- Swapped sqlite3 for postgresql database creation (see __init__.py / databse_setup.py in `/var/www/playlist/playlist`)
 
 Resources:
 https://discussions.udacity.com/t/project-5-resources/28343
